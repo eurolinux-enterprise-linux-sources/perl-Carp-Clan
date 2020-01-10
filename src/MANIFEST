@@ -1,0 +1,13 @@
+Artistic.txt
+Changes
+GNU_GPL.txt
+lib/Carp/Clan.pm
+lib/Carp/Clan.pod
+Makefile.PL
+MANIFEST
+README
+t/01pod.t
+t/03yaml.t
+t/10basic.t
+t/11basic.t
+META.yml                                 Module meta-data (added by MakeMaker)
