@@ -1,6 +1,6 @@
 Name:           perl-Carp-Clan
 Version:        6.04
-Release:        10%{?dist}
+Release:        9.1%{?dist}
 Summary:        Perl module to print improved warning messages
 
 Group:          Development/Libraries
@@ -60,9 +60,6 @@ rm -rf $RPM_BUILD_ROOT
 
 
 %changelog
-* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 6.04-10
-- Mass rebuild 2013-12-27
-
 * Wed Aug 15 2012 Daniel Mach <dmach@redhat.com> - 6.04-9.1
 - Rebuild for perl 5.16
 
